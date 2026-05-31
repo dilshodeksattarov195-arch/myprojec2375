@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productdalculate",
+        "uuid": 20432125,
+        "checksum": "xeut2j"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
